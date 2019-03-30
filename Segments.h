@@ -1,16 +1,16 @@
+/*
+
+	Project:	HelloSevenSegments
+	File:		  Segments.h
+	Created:	2019-03-30
+	Modified:	2019-03-30
+	Author:		Gabriel Fontaine-Escobar
+	Version:	0.1
+  
+*/
+
 #ifndef SEGMENTS_H
 #define SEGMENTS_H
-
-//0b0gfedcba
-//	--a--
-//  |	  |
-//	f   b
-//	|	  |
-//	--g--
-//	|	  |
-//	e	  c
-//	| 	|
-//	--d--
 
 #define LETTER_A 0b01110111
 #define LETTER_C 0b00111001
