@@ -10,7 +10,6 @@
 	Description:
 	Hello world using an ATmega328P and a seven-segment LED display
 
-
 	The circuit:
 	SEVEN-SEGMENT LED DISPLAY:
 	--a--
