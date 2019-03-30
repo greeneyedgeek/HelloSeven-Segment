@@ -13,13 +13,13 @@
 	The circuit:
 		PORT D:
 			--a--
-			|	  |
+			|   |
 			f   b
-			|	  |
+			|   |
 			--g--
-			|	  |
-			e	c
-			| 	|
+			|   |
+			e   c
+			|   |
 			--d--
 
 			PIN0:	a
