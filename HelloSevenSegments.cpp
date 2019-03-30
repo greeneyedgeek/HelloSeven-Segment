@@ -30,6 +30,8 @@
 	PIN4:	e
 	PIN5:	f
 	PIN6:	g
+	
+	Note: Unplug PIN0 and PIN1 before uploading.
 
  	This code is in the public domain.
 	https://github.com/greeneyedgeek/HelloSevenSegments
