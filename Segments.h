@@ -1,7 +1,7 @@
 /*
 
 	Project:	HelloSevenSegments
-	File:		  Segments.h
+	File:           Segments.h
 	Created:	2019-03-30
 	Modified:	2019-03-30
 	Author:		Gabriel Fontaine-Escobar
