@@ -12,7 +12,7 @@
 
 
 	The circuit:
-	PORT D:
+	SEVEN SEGMENT LED DISPLAY:
 	--a--
 	|   |
 	f   b
@@ -23,6 +23,7 @@
 	|   |
 	--d--
 
+	PORT D:
 	PIN0:	a
 	PIN1:	b
 	PIN2:	c
