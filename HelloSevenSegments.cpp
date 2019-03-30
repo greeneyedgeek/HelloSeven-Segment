@@ -8,30 +8,31 @@
 	Version:	0.1
 
 	Description:
+	Hello world using an ATmega328P and a seven segments LED display
 
 
 	The circuit:
-		PORT D:
-			--a--
-			|   |
-			f   b
-			|   |
-			--g--
-			|   |
-			e   c
-			|   |
-			--d--
+	PORT D:
+	--a--
+	|   |
+	f   b
+	|   |
+	--g--
+	|   |
+	e   c
+	|   |
+	--d--
 
-			PIN0:	a
-			PIN1:	b
-			PIN2:	c
-			PIN3:	d
-			PIN4:	e
-			PIN5:	f
-			PIN6:	g
+	PIN0:	a
+	PIN1:	b
+	PIN2:	c
+	PIN3:	d
+	PIN4:	e
+	PIN5:	f
+	PIN6:	g
 
  	This code is in the public domain.
-	https://github.com/greeneyedgeek/ThermometerHygrometer
+	https://github.com/greeneyedgeek/HelloSevenSegments
 
  	MIT License
 
