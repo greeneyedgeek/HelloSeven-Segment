@@ -1,18 +1,18 @@
 /*
 
-	Project:	HelloSevenSegments
-	File:		HelloSevenSegments.cpp
+	Project:	HelloSeven-Segment
+	File:		HelloSeven-Segment.cpp
 	Created:	2019-03-30
 	Modified:	2019-03-30
 	Author:		Gabriel Fontaine-Escobar
 	Version:	0.1
 
 	Description:
-	Hello world using an ATmega328P and a seven segments LED display
+	Hello world using an ATmega328P and a seven-segment LED display
 
 
 	The circuit:
-	SEVEN SEGMENT LED DISPLAY:
+	SEVEN-SEGMENT LED DISPLAY:
 	--a--
 	|   |
 	f   b
