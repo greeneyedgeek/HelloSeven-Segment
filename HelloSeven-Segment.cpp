@@ -34,7 +34,7 @@
 	Note: Unplug PIN0 and PIN1 before uploading.
 
  	This code is in the public domain.
-	https://github.com/greeneyedgeek/HelloSevenSegments
+	https://github.com/greeneyedgeek/HelloSeven-Segment
 
  	MIT License
 
